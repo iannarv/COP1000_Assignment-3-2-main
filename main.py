@@ -1,7 +1,11 @@
 #Function: This program determines if a student will be admitted or rejected.
+
+
 #Input:  Interactive
+
 testScoreString = input("Enter student's test score: ")
 classRankString = input("Enter student's class rank: ")
+
 # Convert input strings to integers
 
 testScore = int(testScoreString)
